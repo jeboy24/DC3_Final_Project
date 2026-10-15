@@ -1,0 +1,1 @@
+export const CATEGORIES = ['Book', 'Gadget', 'Clothing', 'Tool', 'School Supply', 'Other']
